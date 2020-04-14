@@ -2,7 +2,7 @@ package com.coolweather.android.gson;
 
 import com.google.gson.annotations.SerializedName;
 
-public class Forcast {
+public class Forecast {
 
     public String date; // 预报日期
 
