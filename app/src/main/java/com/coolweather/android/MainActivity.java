@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
 
-// 从 SharedPreferences 中读取缓存数据
+// 从 SharedPreferences 中读取缓存数据 tijiao
 
         if(prefs.getString("weather",null)!=null){
 
