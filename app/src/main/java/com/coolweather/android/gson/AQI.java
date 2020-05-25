@@ -3,7 +3,7 @@ package com.coolweather.android.gson;
 public class AQI {
 
 
-    public AQICity city; // 城市
+    public AQICity city; // 城市hahhahhahhhah
 
     public class AQICity{
 
